@@ -1,0 +1,6 @@
+{
+  "name": "ArthaAI",
+  "description": "Real-time stock market data feed, AI market sentiment, SIP/Lumpsum investment calculator, and automated stock trading strategy engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
