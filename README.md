@@ -1,6 +1,6 @@
 # Artha AI — Intelligent Fintech Risk & Market Intelligence Platform
 
-> **🌐 Live Demo:** https://demo-arthai-app.vercel.app/
+> **🌐 Live Demo:** https://demo-arthai-app.vercel.app/ 
 
 ---
 
