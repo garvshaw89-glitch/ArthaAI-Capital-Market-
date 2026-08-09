@@ -62,7 +62,3 @@ $$\text{Confidence} = \min(100, \text{transaction count} \times 10)$$
 * [ ] Portfolio risk scoring engine.
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
